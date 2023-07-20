@@ -1,0 +1,5 @@
+[user]
+	name = admin
+	email = admin@gmail.com
+[merge]
+	tool = kdiff3
