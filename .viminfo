@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1689835841,,"wq"
 :wq!
 |2,0,1689577659,,"wq!"
-:wq
-|2,0,1688479594,,"wq"
 :q!
 |2,0,1590234112,,"q!"
 
@@ -42,34 +42,46 @@ $
 |3,0,36,0,1,0,1590232069,"a"
 
 # File marks:
-'0  1  6  ~/mynewproject/123.txt
-|4,48,1,6,1689577659,"~/mynewproject/123.txt"
-'1  2  10  ~/mynewproject/txt
-|4,49,2,10,1689574337,"~/mynewproject/txt"
-'2  135  0  ~/mynewproject/alpha
-|4,50,135,0,1688492318,"~/mynewproject/alpha"
-'3  36  51  ~/mynewproject/alpha
-|4,51,36,51,1688492164,"~/mynewproject/alpha"
+'0  1  0  ~/pom.xml
+|4,48,1,0,1689835841,"~/pom.xml"
+'1  1  6  ~/mynewproject/123.txt
+|4,49,1,6,1689577659,"~/mynewproject/123.txt"
+'2  2  10  ~/mynewproject/txt
+|4,50,2,10,1689574337,"~/mynewproject/txt"
+'3  135  0  ~/mynewproject/alpha
+|4,51,135,0,1688492318,"~/mynewproject/alpha"
 '4  36  51  ~/mynewproject/alpha
 |4,52,36,51,1688492164,"~/mynewproject/alpha"
-'5  399  55  ~/mynewproject/alpha
-|4,53,399,55,1688491993,"~/mynewproject/alpha"
-'6  406  0  ~/mynewproject/alpha
-|4,54,406,0,1688491993,"~/mynewproject/alpha"
-'7  399  55  ~/mynewproject/alpha
-|4,55,399,55,1688491993,"~/mynewproject/alpha"
-'8  406  0  ~/mynewproject/alpha
-|4,56,406,0,1688491993,"~/mynewproject/alpha"
-'9  269  0  ~/mynewproject/alpha
-|4,57,269,0,1688491359,"~/mynewproject/alpha"
+'5  36  51  ~/mynewproject/alpha
+|4,53,36,51,1688492164,"~/mynewproject/alpha"
+'6  399  55  ~/mynewproject/alpha
+|4,54,399,55,1688491993,"~/mynewproject/alpha"
+'7  406  0  ~/mynewproject/alpha
+|4,55,406,0,1688491993,"~/mynewproject/alpha"
+'8  399  55  ~/mynewproject/alpha
+|4,56,399,55,1688491993,"~/mynewproject/alpha"
+'9  406  0  ~/mynewproject/alpha
+|4,57,406,0,1688491993,"~/mynewproject/alpha"
 
 # Jumplist (newest first):
+-'  1  0  ~/pom.xml
+|4,39,1,0,1689835841,"~/pom.xml"
+-'  1  6  ~/mynewproject/123.txt
+|4,39,1,6,1689577659,"~/mynewproject/123.txt"
 -'  1  6  ~/mynewproject/123.txt
 |4,39,1,6,1689577659,"~/mynewproject/123.txt"
 -'  2  10  ~/mynewproject/txt
 |4,39,2,10,1689574337,"~/mynewproject/txt"
 -'  2  10  ~/mynewproject/txt
 |4,39,2,10,1689574337,"~/mynewproject/txt"
+-'  2  10  ~/mynewproject/txt
+|4,39,2,10,1689574337,"~/mynewproject/txt"
+-'  2  10  ~/mynewproject/txt
+|4,39,2,10,1689574337,"~/mynewproject/txt"
+-'  1  0  ~/mynewproject/txt
+|4,39,1,0,1689574328,"~/mynewproject/txt"
+-'  1  0  ~/mynewproject/txt
+|4,39,1,0,1689574328,"~/mynewproject/txt"
 -'  1  0  ~/mynewproject/txt
 |4,39,1,0,1689574328,"~/mynewproject/txt"
 -'  1  0  ~/mynewproject/txt
@@ -82,6 +94,22 @@ $
 |4,39,135,0,1688492318,"~/mynewproject/alpha"
 -'  135  0  ~/mynewproject/alpha
 |4,39,135,0,1688492318,"~/mynewproject/alpha"
+-'  135  0  ~/mynewproject/alpha
+|4,39,135,0,1688492318,"~/mynewproject/alpha"
+-'  135  0  ~/mynewproject/alpha
+|4,39,135,0,1688492318,"~/mynewproject/alpha"
+-'  135  0  ~/mynewproject/alpha
+|4,39,135,0,1688492318,"~/mynewproject/alpha"
+-'  135  0  ~/mynewproject/alpha
+|4,39,135,0,1688492318,"~/mynewproject/alpha"
+-'  1  0  ~/mynewproject/alpha
+|4,39,1,0,1688492267,"~/mynewproject/alpha"
+-'  1  0  ~/mynewproject/alpha
+|4,39,1,0,1688492267,"~/mynewproject/alpha"
+-'  1  0  ~/mynewproject/alpha
+|4,39,1,0,1688492267,"~/mynewproject/alpha"
+-'  1  0  ~/mynewproject/alpha
+|4,39,1,0,1688492267,"~/mynewproject/alpha"
 -'  1  0  ~/mynewproject/alpha
 |4,39,1,0,1688492267,"~/mynewproject/alpha"
 -'  1  0  ~/mynewproject/alpha
@@ -106,6 +134,38 @@ $
 |4,39,36,51,1688492164,"~/mynewproject/alpha"
 -'  36  51  ~/mynewproject/alpha
 |4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  36  51  ~/mynewproject/alpha
+|4,39,36,51,1688492164,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
+-'  399  55  ~/mynewproject/alpha
+|4,39,399,55,1688492097,"~/mynewproject/alpha"
 -'  399  55  ~/mynewproject/alpha
 |4,39,399,55,1688492097,"~/mynewproject/alpha"
 -'  399  55  ~/mynewproject/alpha
@@ -138,6 +198,46 @@ $
 |4,39,406,0,1688491993,"~/mynewproject/alpha"
 -'  406  0  ~/mynewproject/alpha
 |4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  406  0  ~/mynewproject/alpha
+|4,39,406,0,1688491993,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
+-'  269  0  ~/mynewproject/alpha
+|4,39,269,0,1688491954,"~/mynewproject/alpha"
 -'  269  0  ~/mynewproject/alpha
 |4,39,269,0,1688491954,"~/mynewproject/alpha"
 -'  269  0  ~/mynewproject/alpha
@@ -164,108 +264,12 @@ $
 |4,39,269,0,1688491954,"~/mynewproject/alpha"
 -'  269  0  ~/mynewproject/alpha
 |4,39,269,0,1688491359,"~/mynewproject/alpha"
--'  269  0  ~/mynewproject/alpha
-|4,39,269,0,1688491359,"~/mynewproject/alpha"
--'  269  0  ~/mynewproject/alpha
-|4,39,269,0,1688491359,"~/mynewproject/alpha"
--'  269  0  ~/mynewproject/alpha
-|4,39,269,0,1688491359,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491346,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491253,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491227,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491227,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491227,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491227,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491140,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491140,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491140,"~/mynewproject/alpha"
--'  135  0  ~/mynewproject/alpha
-|4,39,135,0,1688491140,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491124,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491124,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491124,"~/mynewproject/alpha"
--'  1  0  ~/mynewproject/alpha
-|4,39,1,0,1688491124,"~/mynewproject/alpha"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
--'  269  0  ~/mynewproject/code
-|4,39,269,0,1688482354,"~/mynewproject/code"
 
 # History of marks within files (newest to oldest):
+
+> ~/pom.xml
+	*	1689835840	0
+	"	1	0
 
 > ~/mynewproject/123.txt
 	*	1689577656	0
